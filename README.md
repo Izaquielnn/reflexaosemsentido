@@ -1,1 +1,3 @@
-Projeto da disciplina princípios de desenvolvimento web kkk
+# Reflexão sem sentido
+
+Site de entretenimento baseado no clásico [historiasemgraca.com.br](https://historiasemgraca.com.br/)
